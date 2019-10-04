@@ -1,0 +1,7 @@
+/home/acptek/CLionProjects/camera_calibration/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/acptek/CLionProjects/camera_calibration/cmake-build-debug/CMakeFiles/calibration.dir
+/home/acptek/CLionProjects/camera_calibration/cmake-build-debug/CMakeFiles/image_capture.dir
+/home/acptek/CLionProjects/camera_calibration/cmake-build-debug/CMakeFiles/image_creator.dir
+/home/acptek/CLionProjects/camera_calibration/cmake-build-debug/CMakeFiles/imagelist_creator.dir
+/home/acptek/CLionProjects/camera_calibration/cmake-build-debug/CMakeFiles/camera_calibration.dir
+/home/acptek/CLionProjects/camera_calibration/cmake-build-debug/CMakeFiles/edit_cache.dir
